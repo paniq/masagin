@@ -1,0 +1,123 @@
+masagin script
+==============
+
+   | 1 | 2 | 3
+ --+--------------------------------
+ 01| X |   |  
+ 02| X |   |  
+ 03| X |   |  
+ 04| X |   |  
+ 05| X |   |  
+ 06| X |   |  
+ 07| X | X |  
+ 08| X | X |  
+ 09| X |   |  
+ 10|   |   |  
+ 11| X |   |  
+ 12| X |   |  
+ 13| X |   |  
+ 14| X |   |  
+ 15| X |   |  
+ 16|   |   |  
+
+ 1) artwork and scripting partially done, scene incomplete, fragments only
+ 2) scene and artwork in a presentable state
+ 3) final polishing
+
+01: flutepart
+-------------
+
+die musik zeichnet ein schweres, großes, ödes bild. hier muss in der ersten hälfte trocken, kurz und klar folgendes rübergebracht werden, in dieser reihenfolge:
+
+"NVISION 08 (Breakpoint and Scene.org*) presents" (* brauchen wir noch eine zusage, sollte man einbauen, aber so, dass man es weglassen kann)
+"a farbrausch production"
+"an invitation to"
+"NVScene" (das wichtigste wort!)
+
+in der zweiten hälfte steigen wir endgültig in die geschichte ein. ein sich öffnender vorhang oder ein buch das sich öffnet wäre hier gut. wir lesen eine mitschrift des gesprochenen textes:
+
+"a monk asked tozan: 'what is buddha?'. tozan said: 'masagin.'"
+
+der text entstammt aus dem 12. koan des hekiganroku. tozan ist darin einer der wichtigsten zen-meister. "masagin" bedeutet übersetzt so viel wie "drei pfund flachs", und ist in gewisser weise einfach nur das nächstbeste, was tozan zu der frage eingefallen ist. in diesem geist soll diese szenengallerie gestaltet werden: als eine reise durch tozans antwort, oder vielmehr: ihrer bedeutung.
+
+02: bellydub
+------------
+
+die musik wird wundersamer und tastet sich voran. wir machen unsere ersten schritte durch masagin. es würde mir gefallen, wenn hier die optik mit dem beat klettert. eine gute gelegenheit für pflanzenranken, nichts objektbezogenes oder besonders gegenständliches. mit den ranken bewegend.
+
+03: mysticdub
+-------------
+
+wir stoßen weiter vor und sind auf der reise zum tieferen urgrund, öffnen pforten und entdecken das geheimnis hinter dem geheimnis. diese gegend ist abstrakt-fraktal-ornamental, aber tunnelartig. keine kurven. die farben sind düster-feurig und geometrische muster bestimmen das bild. es geht nach innen.
+
+der zweite part wird von mir musikalisch noch rhythmischer untermalt, der ist im moment nicht ganz fertig. was bleibt, wird das enden auf dem sehr hohen ton. es wäre gut, wenn hier die szene in einer gewissen immer mehr beschleunigt, und anfängt destabilisierend zu ruckeln.
+
+04: stallingangle
+-----------------
+
+alarmstufe rot. wir stürzen ab. wir sind aus der fassung gebracht. in der ersten hälfte blinkt es rot und warnend. was mir dazu einfällt ist eine digitale blinkende anzeige eines weckers, schwarz-gelbe und weiss-orangene streifen wie auf absperrungsband. die kamera irrt auf der stelle umher und kommt weder vorwärts noch zurück. hier sollte es etwas chaotisch werden.
+
+in der zweiten hälfte haben wir einen "alarm-groove" gefunden: der mystische aspekt kehrt zurück, aus warnstreifen, digitalanzeige und lämpchen baut sich ein neues rankenartiges ornament auf, in das wir weiter hinabsteigen können.
+
+05: sidrevival
+--------------
+
+hier wäre am anfang eine ganz leichte C64-assoziation nett... ein blauer kreis der von einer blauen und einer roten linie durchstoßen werden, die sich dann mehrfach teilen, eine runtergeditherte pixelgrafik, ein rot-weisses amigaschachbrett, copperbars, regenbogensinus, so geballer halt. eine lebenspulslinie. eine verherrlichung des demostyle im schnelldurchlauf: die demoszene ist unser leben, und wir lieben alles, was dort tradition hat.
+
+dies ist ein rückblick auf alte zeiten und daher zoomen wir dabei immer weiter raus (zum ersten mal!)
+
+06: betterland
+--------------
+
+hier ist wieder ein groove-part. hier fällt mir nichts besonderes ein. ich fände hier punkte, die synchron mit den blips der melodie kurz aufglühen ganz schön, und pfeile, die diese blips verbinden. die kamera sollte alle 4 beats horizontal und vertikal die richtung ändern, aber nie umkehren (also wie eine treppe). aus irgendeinem grund fände ich hier sowas ähnliches wie ein starfield gut (müssen ja keine punktsterne sein... vielleicht richtige sterne?)
+
+07: sugarfairy
+--------------
+
+hier treffen wir auf den archetypus "raumfahrt" mit einem großen sternenhimmel, planeten, monde, galaxien, kometen, raketen, umlaufbahnen, dieser plunder, alles stilisiert und möglichst farbig. weiter rauszoomen wäre hier auch brauchbar. das einzige was hier nicht vorkommen darf, ist die erde. denn die kommt im nächsten bild.
+
+08: itsallright
+---------------
+
+das hier ist der klassische wir-halten-alle-unsere-hände-und-schunkeln-part. wir erreichen die erde. hier fallen mir vor allem länderflaggen ein, hände, emoticons, sprechblasen, satelliten, internationale kommunikation, die uns alle auf dem planeten verbindet. hier noch etwas bunter, und viel rotieren. one earth, one nation. i have a dream.
+
+09: eternalhappiness
+--------------------
+
+die ultimative fröhlichkeits-bombe, wo alles bonbon-bunt und hell und freundlich ist, sich in der musik wiegt, und alle gegenstände ein gesicht haben, und kurze ärmchen, die sie ausstrecken, im versuch, alles zu umarmen. keine menschen, mehr gegenstände... wie die bewohner von toontown in roger rabbit. viele herzchen und so viel liebe wie geht. hier kann man echt nicht genug übertreiben! (aber bitte ehrlich dabei bleiben :)
+
+10: turbulences
+---------------
+
+der große auftritt des mutanten. hier fällt unsere demo auseinander, und die bisherig gesehenen teile irren verwirrt durcheinander auf die bühne, als ob jeder vergessen hat, wann sein part kommt, und zwar in rückläufiger reihenfolge. die elemente bleiben alle in einem großen unschlüssigen ball in der mitte, die kamera bewegt sich nicht.
+
+11: aurevoir
+------------
+
+hier ist die musik leider noch nicht ganz fertig und loopt einfach, aber später kommt hier noch etwas mehr hirnfick rein. hier kommen elektro-visuals, leiterbahnen-ornamente, was man halt so von meinem logo kennt. mal hier reinzoomen, mal dort raus. unendlichkeit.
+
+12: readysteadygo
+-----------------
+
+hier ändert sich andauernd die hintergrundfarbe. es würden mir so zackige mexikanische muster gefallen, kreise wie von einem gepunkteten kleid, ineinander morphende spielkarten und am ende eine unglaublich rote rose, die sich schließt.
+
+13: evolution
+-------------
+
+dieser part besteht aus feuerwerkartigen explosionen und ist das kapitalist-im-glück-segment. auf jeden ersten beat explodieren die statussymbole neureicher: geldscheine, diamanten, krawatten, bimbo-girls, goldringe, ferraris, dollarzeichen, "YES", "BUY" und "STRONG BUY" und im hintergrund klettert ein börsenindex immer weiter nach oben, und ein geldbetrag steigt immer weiter. ich muss es als zuschauer richtig geil finden, reich zu sein. irgendwelche wirtschaftskritik ist hier fehl am platz ;)
+
+14: alienvisit
+--------------
+
+der größenwahnsinnige ich-bin-verrückt-und-stolz-drauf verschwörungs-sci-fi-horror part. ein fledermausumflogenes schloss auf einem hügel, ein verrückter professor der lachend an einem schalter zieht, lichtblitze zucken, ufos ziehen vorbei, laserstrahlen, das auge in der pyramide, und j.r. "bob" dobbs ist natürlich auch dabei (http://en.wikipedia.org/wiki/J.R._%22Bob%22_Dobbs). immer schön rauszoomen.
+
+15: showdown
+------------
+
+hier sind die greetings. wir tunneln uns von gruppenname zu gruppenname. alle möglichst mit stilisierten sonnenstrahlen aussenrum, als wären das die eigentlichen stars dieser demo, allerdings müssen wir schnell machen, so dass das hier noch am ende dazu passt (ein wenig langsamer, so dass man es lesen kann): come to NVScene / August 25th-27th 2008 San Jose, California / 500+ sitting area / huge screen / huge sound system / competitions / seminars / and much(much much much much) more!
+
+16: credits
+-----------
+
+die demo endet auf schwarz. hier kommt noch gepfeife von mir auf den abspann... ich pfeife also quasi auf den abspann, der part wird dann noch etwas länger, und hier kommen die namen von den leuten die mitgemacht haben, ohne jobzuteilung oder so. möglichst schmucklos und dezent.
+

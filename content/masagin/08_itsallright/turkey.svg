@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1026"
+   height="684"
+   id="Flag of Turkey"
+   version="1.1"
+   viewBox="0,0 360,240"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1+0.46pre1+devel"
+   sodipodi:docname="turkey.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs25">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective2411" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective29" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="731"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.53021442"
+     inkscape:cx="513"
+     inkscape:cy="342"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="Flag of Turkey" />
+  <path
+     style="fill:#e30a17"
+     d="M 0,0 L 360,0 L 360,240 L 0,240 L 0,0 z"
+     id="rect5" />
+  <path
+     style="fill:#ffffff"
+     d="M 342 171 C 247.608 171 171 247.608 171 342 C 171 436.392 247.608 513 342 513 C 402.82758 513 456.27816 481.19686 486.59375 433.3125 C 461.54249 461.22983 425.18315 478.8125 384.75 478.8125 C 309.2364 478.81251 247.9375 417.5136 247.9375 342 C 247.9375 266.4864 309.2364 205.1875 384.75 205.1875 C 425.18315 205.1875 461.54249 222.77018 486.59375 250.6875 C 456.27816 202.80314 402.82758 171 342 171 z "
+     transform="scale(0.3508772,0.3508772)"
+     id="circle7" />
+  <path
+     style="fill:#ffffff"
+     d="M 545.5625 260.6875 L 545.5625 322.8125 L 486.5 342 L 545.5625 361.1875 L 545.5625 423.3125 L 582.09375 373.0625 L 641.15625 392.25 L 604.65625 342 L 641.15625 291.75 L 582.09375 310.9375 L 545.5625 260.6875 z "
+     transform="scale(0.3508772,0.3508772)"
+     id="triangle" />
+</svg>

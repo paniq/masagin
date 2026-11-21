@@ -1,0 +1,28 @@
+guid "{f8cbfa90-c6b5-11dc-95ff-0800200c9a66}";
+
+license altona;
+include "altona/main";
+library;
+
+file "packfile.?pp";
+file "vorbisplayer.?pp";
+file "mesh.?pp";
+file "model.?pp";
+file "entity.?pp";
+file "verb.?pp";
+file "shape.?pp";
+file "msg.?pp";
+file "spring.?pp";
+file "fader.?pp";
+file "funcvalue.?pp";
+file "tools.?pp";
+file "constants.?pp";
+file "msglib.mp.txt";
+file "ippmtrl.?pp";
+file "ipptool.?pp";
+file "ippmtrl.asc";
+file "shaders.asc";
+file nonew "shaders.?pp";
+file nonew "ippmtrl.?pp";
+
+

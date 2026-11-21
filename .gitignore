@@ -1,0 +1,17 @@
+# Vendored dependencies and build output
+/deps/
+/obj/
+/build/
+
+# Built executables (was: ^masagin$, ^vktest$, ^vkbloom$, ^corehello$)
+/masagin
+/vktest
+/vkbloom
+/corehello
+
+# Compiled objects and temp files (was: \.o$, \.err$, \.tmp$, \.pyc$)
+*.o
+*.err
+*.tmp
+*.pyc
+__pycache__/

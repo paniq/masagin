@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg6081"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\masagin\content\masagin\02_bellydub"
+   sodipodi:docname="belly_star.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs6083" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="411.6776"
+     inkscape:cy="506.95987"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1600"
+     inkscape:window-height="1152"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata6086">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#55ffad;fill-opacity:1;fill-rule:nonzero;stroke:#00aa58;stroke-width:7.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6091"
+       sodipodi:sides="3"
+       sodipodi:cx="192.43407"
+       sodipodi:cy="358.38739"
+       sodipodi:r1="1.2299446"
+       sodipodi:r2="122.28681"
+       sodipodi:arg1="-0.86456948"
+       sodipodi:arg2="0.18262807"
+       inkscape:flatsided="false"
+       inkscape:rounded="1.13"
+       inkscape:randomized="0"
+       d="M 193.23226,357.45163 C 297.84023,446.68109 337.65822,245.38857 312.68722,380.59646 C 287.71623,515.80434 322.42432,313.5681 192.84536,359.54653 C 63.266402,405.52496 217.68184,540.6546 113.07387,451.42515 C 8.465906,362.19569 166.25358,493.3719 191.22458,358.16401 C 216.19557,222.95613 21.962142,289.119 151.5411,243.14057 C 281.12006,197.16214 88.624294,268.22217 193.23226,357.45163 z "
+       transform="matrix(0.7553867,-0.6552792,0.6552792,0.7553867,27.390619,375.8938)" />
+    <path
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.6271618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 408.3566,646.47254 L 408.35173,417.79471"
+       id="path6095" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.24189085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 297.08729,459.03181 L 100.40772,343.60593"
+       id="path7066" />
+    <path
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#00ff00;stroke-width:0.24189085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 515.52706,457.62715 L 713.82859,345.01059"
+       id="path3134" />
+  </g>
+</svg>

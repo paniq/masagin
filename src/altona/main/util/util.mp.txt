@@ -1,0 +1,20 @@
+guid "{9575FAD3-F5A4-4909-B20E-145A5024C578}";
+
+license altona;
+include "altona/main";
+library;
+
+file "camera.?pp";
+file "effect.?pp";
+file "image.?pp";
+file "musicplayer.?pp";
+file "painter.?pp";
+file "scanner.?pp";
+file "scanconfig.?pp";
+file "util.mp.txt";
+file "shaders.asc";
+file "animation.?pp";
+file nonew "shaders.?pp";
+file "stb_image.c" license default;
+
+

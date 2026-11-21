@@ -1,0 +1,121 @@
+01 flutepart
+************************************************************************
+
+DONE T110: den anfang durch etwas langsameres, nicht zoomendes austauschen.
+DONE T120: texte mit "wisch-effekt" auf den screen bringen.
+DONE T130: breakpoint in die liste der presentatoren einfügen
+DONE T140: standins für mönch, tozan, sprechblasen, buddha und fragezeichen ersetzen
+
+T135: scene.org in die liste der presentatoren einfügen
+
+02 bellydub
+************************************************************************
+
+DONE T210: rosen wachsen lassen
+DONE T220: für den zweiten teil ein langer aufwärtsstiel
+T225: ...der in einer großen rose mündet
+T230: hellgrauer hecken-hintergrund im stil des vordergrundes, der langsamer scrollt und die szene tiefer macht
+T240: gizmos pfeile einbauen
+
+03 mysticdub
+************************************************************************
+
+T310: kamera rotiert im zweiten teil
+T320: mehr grow in der szene?
+T330: mehr gradients?
+T340: starke beschleunigung zum ende hin, massiv blur
+
+04 stallingangle
+************************************************************************
+
+DONE T410: oben und unten im ersten teil schwarz-gelb-gestreifte elektro-gefahr elemente die vorbeiscrollen, mit grow-effekt
+DONE T420: in der zweiten hälfte sollen die anzeigeelemente eher fraktal auseinandergehen
+T430: in der zweiten hälfte ändert sich der elektro-style mehr in einen ornamental runden stil, schneckenhäuser und ähnliches
+
+05 sidrevival
+************************************************************************
+
+DONE T510: ein segment für jeweils spectrum zx, c64, atari, a500, pc
+T520: jedes segment mit seinem eigenem stil, eine jahreszahl und kleiner unlesbarer text dazu,
+wie eine dynamische enzyklopädie
+T530: beim C64 gehen die striche durch das C durch, so dass man das C64-logo erkennt
+
+06 betterland
+************************************************************************
+
+T610: die elemente müssen komplett neugestaltet werden. ich hätte hier gerne etwas mehr mit rigiden pfeilen, die in unterschiedliche richtungen gehen, und hintergrundgelöt. mal sehen.
+
+07 sugarfairy
+************************************************************************
+
+T710: alles einfärben
+
+08 itsallright
+************************************************************************
+
+T810: vielleicht noch das UN chat segment rein?
+T820: spanische flagge fixen, notfalls einfach das logo killen
+DONE T830: portugiesische flagge ist ein frameratenkiller, muss man irgendwie lösen
+T840: maskierungseffekt über die flagge, irgendwelche randornamente? die szene ist noch etwas leer.
+
+09 eternalhappiness
+************************************************************************
+
+T910: wolken
+T920: kleine paralax-wolken im hintergrund
+T930: schneemann überarbeiten und einbauen
+T940: rose einbauen
+T950: sonne einbauen
+T960: regenbogen?
+T970: zuckerstangen, gebäck?
+T980: mond?
+T990: was ist sonst noch süß?
+
+10 turbulences
+************************************************************************
+
+DONE T1020: böses rumjittern
+DONE T1030: rgb-displacement-effekt?
+
+11 aurevoir
+************************************************************************
+
+T1110: noch ein neues element machen
+T1120: kamerazoom überarbeiten
+
+12 readysteadygo
+************************************************************************
+
+T1210: ab dem 1/4 noch mehr ornamente, die über den bildschirm krabbeln
+
+13 evolution
+************************************************************************
+
+T1320: aktienindex-zahlen in das schaubild im hintergrund
+T1330: andere farbe für den steigenden pfeil
+T1340: pfeilgrenze muss härter sein
+T1350: einzelne grafiken überarbeiten
+T1360: noch mehr transitions für unterschiedliche elemente
+T1370: einen zweiten pfeil dazu?
+
+14 alienvisit
+************************************************************************
+
+T1410: szene bauen
+T1420: regen und gewitter ums schloss?
+T1430: doktor lacht?
+T1440: frankenstein? weint?
+T1450: fledermäuse wirbeln umher
+
+15 showdown
+************************************************************************
+
+T1510: alle greetings vergolden
+DONE T1520: party details ausgestalten, anderer stil
+DONE T1530: party details scripten
+
+16 credits
+************************************************************************
+
+T1620: cp, kb, chaos, faith, paniq, pittip (peter wolter), tournesol, wer noch? 
+T1630: (thanks to scamp, exoticorn, leia, docd, temis..?)
